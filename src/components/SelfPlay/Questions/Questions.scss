@@ -62,8 +62,8 @@
   }
 }
 
-
-
-.quiz_result{
-  background-color: green;
+.quiz_result {
+  background-color: darken($color: $blue, $amount: 60);
+  width: 500px;
+  padding: 40px;
 }
